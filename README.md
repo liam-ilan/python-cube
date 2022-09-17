@@ -1,9 +1,7 @@
 # Python Cube
-Inspired by the [C Donut](https://www.a1k0n.net/2006/09/15/obfuscated-c-donut.html)
-Run with `python cube.py`
-
-## What is This?
-A cube wireframe renderer, written in a 45x45 Python script.
+A cube wireframe renderer, in a 45x45 Python script.
+- Inspired by [donut.c](https://www.a1k0n.net/2006/09/15/obfuscated-c-donut.html)
+- Run with `python cube.py`
 
 ## Images
 | Code, Adjusted to Fit Into a Square    | Output                              |
