@@ -6,10 +6,10 @@ Run with `python main.py`
 A cube wireframe renderer, written in a 45x45 Python script.
 
 ## Images
-### Code, adjusted to fit into a square
+Code, adjusted to fit into a square
 ![45x45 Script](./img/square-font.png)
 
-### Output
+Output
 ![Wireframe Cube](./img/output.png)
 
 ## Author
