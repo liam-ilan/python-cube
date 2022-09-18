@@ -1,7 +1,7 @@
 # Python Cube
 A cube wireframe renderer, in a 45x45 Python script, inspired by [donut.c](https://www.a1k0n.net/2006/09/15/obfuscated-c-donut.html).
 
-An Interactive version can be found [here](https://replit.com/@snowboardsheep/Python-Cube?v=1).
+An Online version can be found [here](https://replit.com/@snowboardsheep/Python-Cube?v=1).
 ## Images
 | Code, Adjusted to Fit Into a Square    | Output                              |
 |----------------------------------------|-------------------------------------|
