@@ -11,6 +11,7 @@ An Interactive version can be found [here](https://replit.com/@snowboardsheep/Py
 Run with `python cube.py`
 - The obfuscated code can be found in `cube.py`.
 - The unobfuscated version can be found at in `unobfuscated-cube.py`
+- The one liner version can be found at in `one-liner.py`
 
 ## Author
 [Liam Ilan](https://github.com/liam-ilan)
